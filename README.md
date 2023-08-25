@@ -1,2 +1,2 @@
 # kafka
-different kafka setups (dockerc-compose, vm, etc.)
+different kafka setups (docker-compose, vm, etc.)
